@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yuvraj Muralichandran</h1>
+<h3 align="center">Astrophysics | Cosmic Web | Data-Driven Science</h3>
 
-<!--
-**yuvrajmuralichandran/yuvrajmuralichandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:yuvraj.muralichandran@uni-potsdam.de">Email</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://orcid.org/">ORCID</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Master’s student in Astrophysics at the University of Potsdam, working at the interface of cosmology, large-scale structure, and data-intensive science.
+
+Current focus:
+- Galaxy spin–filament alignment in the cosmic web  
+- Observational + simulation-based inference  
+- Statistical validation using Monte Carlo frameworks  
+
+Thesis accepted for publication (A&A).
+
+---
+
+## Research Focus
+
+- Cosmic web structure (filaments, walls, voids)
+- Galaxy–environment interactions
+- Tidal Torque Theory and angular momentum acquisition
+- Observational cosmology (survey data, systematics)
+- Simulation pipelines (Euclid mocks, TNG, DisPerSE)
+
+---
+
+## Technical Stack
+
+**Languages**
+```text
+Python • SQL • LaTeX • Bash
