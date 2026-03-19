@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:yuvraj.muralichandran@uni-potsdam.de">Email</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="linkedin.com/in/yuvrajmuralichandran">LinkedIn</a> •
   <a href="https://orcid.org/">ORCID</a>
 </p>
 
