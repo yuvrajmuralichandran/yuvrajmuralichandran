@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Yuvraj Muralichandran</h1>
+<h1 align="center">Tere, I'm Yuvraj Muralichandran</h1>
 <h3 align="center">Astrophysics | Cosmic Web | Data-Driven Science</h3>
 
 <p align="center">
@@ -11,4 +11,4 @@
 
 ## About Me
 
-Master’s student in Astrophysics at the University of Potsdam, working at the interface of cosmology, large-scale structure, and data-intensive science.
+I'm a junior research assistant at Tartu Observatory, as part of my joint PhD program with University of Tartu & University of Groningen. 
